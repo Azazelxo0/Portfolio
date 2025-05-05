@@ -1,6 +1,6 @@
 import React from 'react'
 import CircularGallery from '../../reactbits/CircularGallery/CircularGallery'
-import SplitText from '../../reactbits/Splittext/Splittext'
+import SplitText from '../../reactbits/SplitText/SplitText'
 
 export default function Projects() {
   const handleAnimationComplete = () => {
